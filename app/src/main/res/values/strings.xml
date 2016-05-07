@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjetoCadastro</string>
+    <string name="proxima"><![CDATA[Próxima >]]></string>
+    <string name="hello">Hello</string>
+    <string name="lt_voltar"><![CDATA[< Voltar]]></string>
+    <string name="world">World!</string>
+    <string name="telefone">Telefone</string>
+    <string name="nome">Nome</string>
+</resources>
